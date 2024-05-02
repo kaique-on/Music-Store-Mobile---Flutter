@@ -80,7 +80,6 @@ class HomeApp extends StatelessWidget {
                                           ),), 
                                         const Text('Guitarra Squier Stratocaster Affinity FMT HSS - Sienna Sunburst', textAlign: TextAlign.center),
                                         const Text('R\$ 4.041,00', style: TextStyle(fontSize: 18)),
-                                        
                                     ]),
                                   ),
                                 ),
